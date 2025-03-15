@@ -1,0 +1,12 @@
+streamlit
+yfinance
+matplotlib
+requests
+beautifulsoup4
+textblob
+statsmodels
+re
+pdfplumber
+langchain-community
+langchain-core
+langchain-ollama
