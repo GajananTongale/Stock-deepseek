@@ -9,3 +9,4 @@ pdfplumber
 langchain-community
 langchain-core
 langchain-ollama
+wikipedia
